@@ -1,48 +1,75 @@
 # Hi, I'm Jennifer Barron 👋
 
-**Operations & QA Professional | AI-Enabled Ops | Process Improvement | Analytics**
+**Operations Excellence | Process Improvement | Workforce Enablement | Analytics | AI-Assisted Workflow Design**
 
-I build systems that turn complexity into clarity — across healthcare operations, enterprise workforces, and AI-powered tools.
+I design systems that reduce friction by making knowledge easier to find, decisions easier to understand, and processes easier to improve.
 
----
-
-## 🔧 What I Do
-
-- **Operations & QA** — 20+ years leading contact center operations, quality programs, and workforce enablement at enterprise scale
-- **Analytics** — Tableau, Power BI, Excel dashboards, weighted scoring frameworks
-- **AI-Enabled Ops** — Building with Claude, ChatGPT, Lovable, Supabase, and Notion AI
-- **No-Code/Low-Code Development** — Turning real problems into working products
+My work sits at the intersection of operations, analytics, knowledge management, and AI-assisted workflow design. I build tools, dashboards, and frameworks that help people spend less time searching for answers and more time making confident decisions.
 
 ---
 
-## 🚀 Projects
+## What I Do
 
-| Project | What It Is | Status |
+- **Operational Intelligence** — turning fragmented processes, data, and knowledge into clearer decision-support systems
+- **Process Improvement** — identifying friction, documenting workflows, and designing repeatable ways to reduce errors and wasted effort
+- **Workforce Enablement** — creating guides, systems, and knowledge structures that help teams work with less dependency on memory or tribal knowledge
+- **Analytics & BI** — building dashboards, scoring models, KPI frameworks, and reporting tools that surface actionable insight
+- **AI-Assisted Workflow Design** — using AI as a practical accelerator for workflow design, knowledge retrieval, documentation, and product prototyping
+
+---
+
+## Selected Work
+
+| Project | What It Demonstrates | Status |
 |---|---|---|
-| [CareCommand](https://carecommand-companion.lovable.app) | AI-powered caregiver app — medication tracking, jargon translation, insurance letter writer | ✅ Live Prototype |
-| LifeOps | Full-stack personal finance intelligence app — BNPL tracking, duplicate detection, affordability engine | 🔒 Private Beta |
-| [Relocation Intelligence Dashboard](https://github.com/jennbarron/relocation-intelligence-framework) | 9-category weighted scoring framework evaluating 11 markets | 📊 Public |
-| [ChaosOS](https://github.com/jennbarron/chaos-os-analytics-framework) | Multi-agent GPT framework with 33+ specialized domain agents | 📂 Public |
-| [Healthcare QA Dashboard](https://public.tableau.com/views/HealthcareQAProgram12-WeekTrends/Dashboard1) | 12-week QA performance tracker — accuracy improved 93.5% → 95.9% | ✅ Live |
+| [CareCommand](https://carecommand-companion.lovable.app) | AI-assisted care coordination system designed to reduce cognitive load for caregivers navigating fragmented healthcare information | Live Prototype |
+| LifeOps | Personal financial decision-support platform for BNPL tracking, recurring obligations, duplicate detection, shared subscriptions, and pay-period affordability | Private Build |
+| [Healthcare QA Operations System](https://github.com/jennbarron/healthcare-qa-ops-system) | QA scorecard design, calibration, KPI reporting, and operational visibility for healthcare-adjacent workflows | Public Case Study |
+| [Relocation Intelligence Framework](https://github.com/jennbarron/relocation-intelligence-framework) | Weighted decision-support model for evaluating relocation markets across family, cost, healthcare, safety, and work factors | Public Framework |
+| [ChaosOS](https://github.com/jennbarron/chaos-os-analytics-framework) | AI-assisted knowledge architecture framework for organizing complex, cross-domain decisions and workflows | Public Framework |
 
 ---
 
-## 🛠️ Tools & Stack
+## Current Focus
 
-**Analytics:** Tableau · Power BI · Domo · Advanced Excel · SQL
+I’m building a portfolio around one core operating philosophy:
 
-**AI Tools:** Claude · ChatGPT · Microsoft Copilot · Lovable · Notion AI
+> **Reduce friction. Improve clarity. Enable better decisions.**
 
-**Operations:** Salesforce · Zendesk · Jira · Five9 · NICE · Google Workspace · Microsoft 365
+Current work includes:
 
-**Development:** Supabase · React · GitHub · Lovable
+- LifeOps synthetic demo dataset for Power BI / Tableau dashboarding
+- Job Search Intelligence app for resume-job matching, application tracking, and ghosting analytics
+- CareCommand caregiver workflow prototype
+- Operational Intelligence Framework
+- GitHub case study cleanup and documentation alignment
+- Lean Six Sigma / process improvement learning path
 
 ---
 
-## 📜 Certifications
+## Capabilities & Tools
 
-- Six Sigma White Belt — CSSC Certified 2026
-- Yellow Belt — In Progress
+### Decision Intelligence
+Tableau · Power BI · Domo · Excel · KPI Frameworks · Weighted Scoring Models
+
+### AI Workflow Design
+ChatGPT · Claude · Microsoft Copilot · Lovable · Notion AI · Prompt Architecture
+
+### Operational Systems
+Salesforce · Zendesk · Jira · Five9 · NICE · Google Workspace · Microsoft 365
+
+### Data Foundations
+SQL · Data Modeling · Reporting Logic · Dashboard Design · Spreadsheet Automation
+
+### Process & Enablement
+SOP Development · Workflow Mapping · QA Calibration · Knowledge Management · Root Cause Thinking · Continuous Improvement
+
+---
+
+## Continuous Learning
+
+- Six Sigma White Belt — CSSC Certified, 2026
+- Lean Six Sigma Green Belt — In Progress
 - Google Project Management Certificate — In Progress
 - Anthropic AI Fluency Framework
 - Microsoft AI Learning Paths
@@ -50,14 +77,31 @@ I build systems that turn complexity into clarity — across healthcare operatio
 
 ---
 
-## 🎓 Education
+## Education
 
-- B.S. Business Administration | Nexford University | Expected November 2026
-- A.S. Business Management | Penn Foster College | 2026
+- **B.S. Business Administration** — Nexford University, In Progress
+- **A.S. Business Management** — Penn Foster College, In Progress / Transfer Path
 
 ---
 
-## 📫 Let's Connect
+## Professional Direction
+
+I’m focused on roles where operations, analytics, process improvement, workforce enablement, and AI-assisted workflow design meet.
+
+Target areas include:
+
+- Operations Excellence
+- Process Improvement
+- Business Intelligence
+- Knowledge Management
+- Workforce Enablement
+- AI Operations
+- Product Operations
+- Business Systems / Decision Support
+
+---
+
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jennifer%20Barron-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jenniferbarronbizops)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jenniferbarron.online-6D28D9?style=flat)](https://jenniferbarron.online)
@@ -65,4 +109,6 @@ I build systems that turn complexity into clarity — across healthcare operatio
 
 ---
 
-*Open to remote Operations, QA, and AI-Enabled Ops roles — available immediately.*
+*Building systems that make knowledge accessible, decisions understandable, and continuous improvement possible.*
+
+*Open to remote roles or relocation for the right opportunity in Operations Excellence, Process Improvement, Business Intelligence, Knowledge Management, or AI-Assisted Workflow Design.*
