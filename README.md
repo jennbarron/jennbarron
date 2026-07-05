@@ -22,11 +22,11 @@ My work sits at the intersection of operations, analytics, knowledge management,
 
 | Project | What It Demonstrates | Status |
 |---|---|---|
-| [CareCommand](https://carecommand-companion.lovable.app) | AI-assisted care coordination system designed to reduce cognitive load for caregivers navigating fragmented healthcare information | Live Prototype |
-| LifeOps | Personal financial decision-support platform for BNPL tracking, recurring obligations, duplicate detection, shared subscriptions, and pay-period affordability | Private Build |
-| [Healthcare QA Operations System](https://github.com/jennbarron/healthcare-qa-ops-system) | QA scorecard design, calibration, KPI reporting, and operational visibility for healthcare-adjacent workflows | Public Case Study |
-| [Relocation Intelligence Framework](https://github.com/jennbarron/relocation-intelligence-framework) | Weighted decision-support model for evaluating relocation markets across family, cost, healthcare, safety, and work factors | Public Framework |
-| [ChaosOS](https://github.com/jennbarron/chaos-os-analytics-framework) | AI-assisted knowledge architecture framework for organizing complex, cross-domain decisions and workflows | Public Framework |
+| CareCommand | AI-assisted care coordination system designed to reduce cognitive load for caregivers navigating fragmented healthcare information | [Live Prototype](https://carecommand-companion.lovable.app) | [GitHub](https://github.com/jennbarron/carecommand-prototype) |
+| LifeOps | Personal financial decision-support platform for BNPL tracking, recurring obligations, duplicate detection, shared subscriptions, and pay-period affordability | Private Build | Coming Soon |
+| Healthcare QA Operations System | QA scorecard design, calibration, KPI reporting, and operational visibility for healthcare-adjacent workflows | [Live Tableau Dashboard](https://public.tableau.com/views/HealthcareQAProgram12-WeekTrends/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | [GitHub](https://github.com/jennbarron/healthcare-qa-ops-system) |
+| Relocation Intelligence Framework | Weighted decision-support model for evaluating relocation markets across family, cost, healthcare, safety, and work factors | V1 Prototype Coming Soon | [GitHub](https://github.com/jennbarron/relocation-intelligence-framework) |
+| ChaosOS | AI-assisted knowledge architecture framework for organizing complex, cross-domain decisions and workflows | Portfolio Case Study | (https://github.com/jennbarron/chaos-os-analytics-framework) |
 
 ---
 
