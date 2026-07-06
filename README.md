@@ -30,6 +30,20 @@ My work sits at the intersection of operations, analytics, knowledge management,
 
 ---
 
+## Repository Guide
+
+My GitHub is organized as a collection of applied systems rather than isolated code samples. Each repository documents a real-world problem, the operational thinking behind the solution, and the technologies used to build it.
+
+| Repository | Focus |
+|------------|-------|
+| CareCommand | AI-assisted healthcare advocacy and care coordination |
+| Relocation Intelligence Framework | Multi-factor decision-support for relocation planning |
+| Healthcare QA Operations System | QA operations, KPI reporting, process improvement, and analytics |
+| ChaosOS | Operational intelligence architecture, AI workflows, SQL analytics, and knowledge management |
+| LifeOps | Personal financial operations and decision-support platform *(private build)* |
+
+---
+
 ## Current Focus
 
 ### Building
