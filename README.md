@@ -20,31 +20,43 @@ My work sits at the intersection of operations, analytics, knowledge management,
 
 ## Selected Work
 
-| Project | What It Demonstrates | Status |
-|---|---|---|
-| CareCommand | AI-assisted care coordination system designed to reduce cognitive load for caregivers navigating fragmented healthcare information | [Live Prototype](https://carecommand-companion.lovable.app) | [GitHub](https://github.com/jennbarron/carecommand-prototype) |
-| LifeOps | Personal financial decision-support platform for BNPL tracking, recurring obligations, duplicate detection, shared subscriptions, and pay-period affordability | Private Build | Coming Soon |
-| Healthcare QA Operations System | QA scorecard design, calibration, KPI reporting, and operational visibility for healthcare-adjacent workflows | [Live Tableau Dashboard](https://public.tableau.com/views/HealthcareQAProgram12-WeekTrends/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | [GitHub](https://github.com/jennbarron/healthcare-qa-ops-system) |
-| Relocation Intelligence Framework | Weighted decision-support model for evaluating relocation markets across family, cost, healthcare, safety, and work factors | V1 Prototype Coming Soon | [GitHub](https://github.com/jennbarron/relocation-intelligence-framework) |
-| ChaosOS | AI-assisted knowledge architecture framework for organizing complex, cross-domain decisions and workflows | Portfolio Case Study | (https://github.com/jennbarron/chaos-os-analytics-framework) |
+| Project | What It Demonstrates | Links |
+|---------|----------------------|------|
+| **CareCommand** | AI-assisted care coordination platform that reduces cognitive load for caregivers navigating fragmented healthcare systems. | [Prototype](https://carecommand-companion.lovable.app) • [GitHub](https://github.com/jennbarron/carecommand-prototype) |
+| **LifeOps** | Personal financial decision-support platform for recurring expenses, BNPL management, affordability analysis, and subscription intelligence. | Private Prototype (Portfolio Demo Coming Soon) |
+| **Healthcare QA Operations System** | Healthcare operations dashboard for QA scorecards, KPI reporting, trend analysis, and operational visibility. | [Dashboard](https://public.tableau.com/views/HealthcareQAProgram12-WeekTrends/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) • [GitHub](https://github.com/jennbarron/healthcare-qa-ops-system) |
+| **Relocation Intelligence Framework** | Decision-support platform for evaluating relocation options across healthcare, safety, education, housing, and financial priorities. | V1 Prototype • [GitHub](https://github.com/jennbarron/relocation-intelligence-framework) |
+| **ChaosOS** | Knowledge architecture framework for organizing complex information, designing AI-assisted workflows, and reducing decision friction across domains. | [GitHub](https://github.com/jennbarron/chaos-os-analytics-framework) |
 
 ---
 
 ## Current Focus
 
-I’m building a portfolio around one core operating philosophy:
+### Building
 
-> **Reduce friction. Improve clarity. Enable better decisions.**
-
-Current work includes:
-
+- LifeOps private prototype and financial decision-support platform
 - LifeOps synthetic demo dataset for Power BI / Tableau dashboarding
-- Job Search Intelligence app for resume-job matching, application tracking, and ghosting analytics
-- CareCommand caregiver workflow prototype
+- Relocation Life Calc V1 and weighted decision-support model
+- Career Intelligence OS for resume-job matching, application tracking, and ghosting analytics
+- CareCommand care coordination platform and caregiver workflow case study
 - Operational Intelligence Framework
-- GitHub case study cleanup and documentation alignment
-- Lean Six Sigma / process improvement learning path
+- GitHub case study cleanup and portfolio documentation
 
+### Learning
+
+- Lean Six Sigma Green Belt
+- Microsoft PL-300: Power BI Data Analyst
+- Google Project Management Professional Certificate *(in progress)*
+- CAPM preparation *(after Google PM completion)*
+- Git & GitHub *(daily practice)*
+- SQL *(daily practice)*
+
+### Completed
+
+- Six Sigma White Belt — CSSC Certified, 2026
+- Anthropic AI Fluency Framework
+- Microsoft AI Learning Paths
+- Cisco Introduction to Data Science
 ---
 
 ## Capabilities & Tools
@@ -66,16 +78,6 @@ SOP Development · Workflow Mapping · QA Calibration · Knowledge Management ·
 
 ---
 
-## Continuous Learning
-
-- Six Sigma White Belt — CSSC Certified, 2026
-- Lean Six Sigma Green Belt — In Progress
-- Google Project Management Certificate — In Progress
-- Anthropic AI Fluency Framework
-- Microsoft AI Learning Paths
-- Cisco Introduction to Data Science
-
----
 
 ## Education
 
