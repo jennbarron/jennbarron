@@ -22,8 +22,8 @@ My work sits at the intersection of operations, analytics, knowledge management,
 
 | Project | What It Demonstrates | Links |
 |---------|----------------------|------|
+| **LifeOps** | Full-stack financial operating system for multi-inbox subscription tracking (60+ accounts), cash-flow velocity, BNPL management, and Poka-Yoke database error-proofing. | [Live Application](https://lifeops-os.lovable.app) • [Subdomain](https://subsync.jenniferbarron.online) • [GitHub](./chaos-os-analytics-framework) |
 | **CareCommand** | AI-assisted care coordination platform that reduces cognitive load for caregivers navigating fragmented healthcare systems. | [Prototype](https://carecommand-companion.lovable.app) • [GitHub](https://github.com/jennbarron/carecommand-prototype) |
-| **LifeOps** | Personal financial decision-support platform for recurring expenses, BNPL management, affordability analysis, and subscription intelligence. | Private Prototype (Portfolio Demo Coming Soon) |
 | **Healthcare QA Operations System** | Healthcare operations dashboard for QA scorecards, KPI reporting, trend analysis, and operational visibility. | [Dashboard](https://public.tableau.com/views/HealthcareQAProgram12-WeekTrends/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) • [GitHub](https://github.com/jennbarron/healthcare-qa-ops-system) |
 | **Relocation Intelligence Framework** | Decision-support platform for evaluating relocation options across healthcare, safety, education, housing, and financial priorities. | V1 Prototype • [GitHub](https://github.com/jennbarron/relocation-intelligence-framework) |
 | **ChaosOS** | Knowledge architecture framework for organizing complex information, designing AI-assisted workflows, and reducing decision friction across domains. | [GitHub](https://github.com/jennbarron/chaos-os-analytics-framework) |
@@ -36,11 +36,10 @@ My GitHub is organized as a collection of applied systems rather than isolated c
 
 | Repository | Focus |
 |------------|-------|
+| ChaosOS / LifeOps | Full-stack operational financial intelligence architecture, AI workflows, and SQL relational database engineering |
 | CareCommand | AI-assisted healthcare advocacy and care coordination |
 | Relocation Intelligence Framework | Multi-factor decision-support for relocation planning |
 | Healthcare QA Operations System | QA operations, KPI reporting, process improvement, and analytics |
-| ChaosOS | Operational intelligence architecture, AI workflows, SQL analytics, and knowledge management |
-| LifeOps | Personal financial operations and decision-support platform *(private build)* |
 
 ---
 
@@ -48,7 +47,7 @@ My GitHub is organized as a collection of applied systems rather than isolated c
 
 ### Building
 
-- LifeOps private prototype and financial decision-support platform
+- LifeOps scale-testing and live multi-account operational transaction mapping
 - LifeOps synthetic demo dataset for Power BI / Tableau dashboarding
 - Relocation Life Calc V1 and weighted decision-support model
 - Career Intelligence OS for resume-job matching, application tracking, and ghosting analytics
@@ -58,7 +57,7 @@ My GitHub is organized as a collection of applied systems rather than isolated c
 
 ### Learning
 
-- Lean Six Sigma Green Belt
+- Lean Six Sigma Green Belt *(Self-Study Curriculum In Progress)*
 - Microsoft PL-300: Power BI Data Analyst
 - Google Project Management Professional Certificate *(in progress)*
 - CAPM preparation *(after Google PM completion)*
@@ -67,10 +66,12 @@ My GitHub is organized as a collection of applied systems rather than isolated c
 
 ### Completed
 
+- Lean Six Sigma Yellow Belt — GLSS Certified, 2026
 - Six Sigma White Belt — CSSC Certified, 2026
 - Anthropic AI Fluency Framework
 - Microsoft AI Learning Paths
 - Cisco Introduction to Data Science
+
 ---
 
 ## Capabilities & Tools
@@ -85,18 +86,17 @@ ChatGPT · Claude · Microsoft Copilot · Lovable · Notion AI · Prompt Archite
 Salesforce · Zendesk · Jira · Five9 · NICE · Google Workspace · Microsoft 365
 
 ### Data Foundations
-SQL · Data Modeling · Reporting Logic · Dashboard Design · Spreadsheet Automation
+SQL · Data Modeling · Reporting Logic · Dashboard Design · PostgreSQL · Row-Level Security (RLS)
 
 ### Process & Enablement
-SOP Development · Workflow Mapping · QA Calibration · Knowledge Management · Root Cause Thinking · Continuous Improvement
+SOP Development · Workflow Mapping · QA Calibration · Knowledge Management · Root Cause Thinking · Continuous Improvement · Poka-Yoke (Error-Proofing)
 
 ---
-
 
 ## Education
 
 - **B.S. Business Administration** — Nexford University, In Progress
-- **A.S. Business Management** — Penn Foster College, In Progress / Transfer Path
+- **A.S. Business Management** — Penn Foster College, Completed / Transfer Path
 
 ---
 
